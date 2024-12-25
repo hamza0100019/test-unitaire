@@ -1,0 +1,6 @@
+projectKey=unitt
+serverUrl=http://localhost:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://localhost:9000/dashboard?id=unitt
+ceTaskId=9728cf48-3a6e-4bf8-8441-7bedc749af64
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9728cf48-3a6e-4bf8-8441-7bedc749af64
